@@ -1,0 +1,12 @@
+#define SFX_SWISH	0
+#define MOD_FLATOUTLIES	0
+#define SFX_CLUNK	32
+#define SFX_EXPLOSION	33
+#define SFX_FROM_SOUNDS	35
+#define SFX__RAPED_BY_D	36
+#define MOD_BASKETT	1
+#define MOD_BEHIND_THE_MIRROR	2
+#define SFX_DO	66
+#define MSL_NSONGS	3
+#define MSL_NSAMPS	67
+#define MSL_BANKSIZE	70
